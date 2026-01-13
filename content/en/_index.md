@@ -3,83 +3,111 @@ linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
 comments: true
-next: /en/2026-01/2026-01-12
+next: /en/2026-01/2026-01-13
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI Daily News 2026/1/13
+## AI News Daily 2026/1/14
 
-> AI News | Daily Morning Read | All-Net Data Aggregation | Cutting-Edge Science Exploration | Industry Voice | Open Source Innovation | AI & Humanity's Future | [Visit Web Version ↗️](https://ai.hubtoday.app/) | [Join Group Chat 🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
+> AI News | Daily Briefing | Web Data Aggregation | Frontier Science Exploration | Industry Voice | Open Source Innovation | AI & Humanity's Future | [Visit Web Version ↗️](https://ai.hubtoday.app/) | [Join Group Chat 🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
-### Today's Rundown
+### **Today's Summary**
 
 ```
-Claude now HIPAA compliant, handles medical data, 22k employees using it.
-Google unveils UCP protocol, enables one-click shopping within AI chats.
-Medical LLM memorization research: 87% content retained, poses data leak risk.
-ByteDance & Alibaba order 200k H200s each, totaling 75 billion RMB.
-Linus Torvalds uses AI programming, calls it an irreversible trend.
+Baichuan launches M3 medical model, Momo introduces AI dating app
+Gemini supports direct cloud connection, Adobe offers unlimited image generation
+DeepSeek open-sources memory module, MIT proposes recursive model
+DeepSeek's parent company earns 5 billion, applications become mainstream
+Vercel releases AI browser, Claude self-programs
 ```
 
 ### Product & Feature Updates
 
-1.  **Anthropic's Claude is officially HIPAA compliant, meaning it can now handle [sensitive health data (AI News)](https://www.aibase.com/zh/news/24512) in the US.** Users can easily import data from Apple Health for AI-powered medical record organization – super convenient! Banner Health already has **22,000 employees** using it. Plus, Anthropic promises not to use this medical data for model training. 🛡️
+1.  **Baichuan's M3 medical model** focuses on serious consultation capabilities 💪, even surpassing GPT-5.2 in accuracy. It can [proactively ask follow-up questions (AI News)](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652664466&idx=1&sn=e5d308bca251c25c735a9c338786e9b4) like a real doctor, marking a significant step towards the singularity for AI healthcare 🚀 and moving beyond mechanical memorization 🙄.
+    <br/><br/>
+    ![AI News: Baichuan M3 Model vs. GPT-5.2 Performance Comparison Chart](https://source.hubtoday.app/images/2026/01/news_01kevyaqs8fjntj1xd8k3aam11.avif)
+    <br/><br/>
 
-2.  **Google has rolled out its new UCP shopping protocol!** CEO Pichai announced this [new open protocol (AI News)](https://www.xiaohu.ai/c/xiaohu-ai/google-ai-ucp) at the NRF conference, allowing users to buy products with a single click right within AI chat interfaces. It already supports **20+ partners**, including Shopify and Walmart, streamlining the entire journey from discovery to payment. 🛍️🛒<br/>![AI News: Google UCP Protocol Architecture Flowchart](https://source.hubtoday.app/images/2026/01/news_01kesb311vf589wpgnxj8he0jk.avif)<br/>
+2.  **Momo's AI dating app, Sweet Donut**, offers an immersive virtual companionship experience 🥰, featuring a [full-process storyline (AI News)](https://www.aibase.com/zh/news/24551) from first encounter to marriage. This signifies a shift in social platforms towards the emotion economy 💡. Users interact by spending "candies" 💸 and can choose from various popular character personas.
+    <br/><br/>
+    ![AI News: Momo Sweet Donut APP AI Character Selection Interface](https://source.hubtoday.app/images/2026/01/news_01kevyatmkepm8ca6tmszdtmmv.avif)
+    <br/><br/>
 
-3.  **Chrome DevTools in Chrome 144 now finally supports individual network request throttling!** Developers can simulate slow networks for specific APIs or scripts, with support for wildcard matching and custom bandwidth configurations. Look for the golden icon in the Network panel to spot it easily. ✨💻<br/><video src="https://source.hubtoday.app/images/2026/01/news_01kesb3cw0eg4bac2pryhcjm5x.mp4" controls="controls" width="100%"></video><br/>
+3.  **Gemini API** now supports direct cloud connection ☁️, enabling it to read external file links directly. The file size limit has been [increased to 100MB (AI News)](https://www.xiaohu.ai/c/xiaohu-ai/gemini-api), greatly simplifying AI application development 🚀 by eliminating the need for developers to repeatedly upload data 😌. It also supports cross-platform calls, including AWS and Azure.
+    <br/><br/>
+    ![AI News: Gemini API Updated Data Processing Flowchart](https://source.hubtoday.app/images/2026/01/news_01kevyb210fmbty2p40m9czwns.avif)
+    <br/><br/>
 
-### Cutting-Edge Research
+4.  **Adobe Firefly** has integrated OpenAI's GPT-Image 1.5 model, offering subscribers unlimited image generation 🔥 for a limited time. The platform is transforming into a [multimodal aggregator (AI News)](https://www.aibase.com/zh/news/24522), aiming to retain core professional creative users 🎨 by integrating top-tier global AI tech stacks.
+    <br/><br/>
+    ![AI News: Adobe Firefly Interface Demonstrating New Model Features](https://source.hubtoday.app/images/2026/01/news_01kevyb52zeh0vykfabv77wgqm.avif)
+    <br/><br/>
 
-1.  **Medical LLM memorization research highlights a serious issue: Large language models show **extremely high memorization rates** during medical adaptation.** A paper reveals that even after continued pre-training, 87% of content is retained post-fine-tuning [See detailed paper (AI News)](https://arxiv.org/abs/2509.08604). This poses a significant risk of patient data leaks and can also reduce the model's generalization capabilities. 🚨
+5.  **Claude Cowork** transforms AI into your virtual colleague 💻, enabling it to directly [operate local files (AI News)](https://www.xiaohu.ai/c/xiaohu-ai/anthropic-claude-cowork-claude-code) and organize documents. This marks a shift from conversation to execution 💡, as it can even plan and report on task progress 📝. Currently, it's exclusively available for macOS users.
 
-2.  **KP-Agent, a new LLM-driven [keyword pruning system (AI News)](https://arxiv.org/abs/2601.05257), has been proposed in a new paper.** Tested on 500,000 ad data points from Meituan, it showed outstanding results, boosting cumulative profit by **49.28%** beyond the baseline! It uses a contextual bandit framework for reinforcement learning. 🚀💰
+### Cutting-edge Research
+
+1.  **DeepSeek has open-sourced a magical memory module** that introduces a new [sparse dimension (AI News)](https://www.jiqizhixin.com/articles/2026-01-13-2), "Engram." This significantly boosts long-text retrieval capabilities 🚀, making V4 model details clearer. Liang Wenfeng personally co-authored the paper 👀, showcasing a perfect decoupling of computation and storage.
+
+2.  **MIT's new recursive language model** approach leaves ultra-long texts in an [external environment (AI News)](https://x.com/vista8/status/2010744550667555274), allowing AI to process information in chunks 🧠, much like humans do. This model dramatically outperforms standard GPT-5 models in accuracy, potentially enabling infinite context windows 🚀 and significantly reducing inference costs 💸.
+    <br/><br/>
+    ![AI News: Comparison of Recursive Language Models and Ordinary Models on Long Text Tasks](https://source.hubtoday.app/images/2026/01/news_01kevyb9kef82axze1akt8trt0.avif)
+    <br/><br/>
+
+3.  **MixRI** achieves lightweight pose estimation, capable of handling [new objects (AI News)](https://arxiv.org/abs/2601.06883) without fine-tuning. It reduces memory usage 💡 by minimizing reference images, performing impressively 👍 in the BOP challenge. Its network parameters are designed to be extremely lightweight, making it ideal for real-time applications 🚀.
+
+4.  **Embodied AI** requires an explicit world model to tackle perceptual noise and [ambiguous instructions (AI News)](https://arxiv.org/abs/2601.01705). The focus is on understanding human intentions 🤝 to make robot interactions more reliable 💪, emphasizing a shared foundation between humans and machines, beyond just formal verification 📝.
 
 ### Industry Outlook & Social Impact
 
-1.  **Meitu's market cap on the Hong Kong stock exchange has soared past HK$40 billion!** The company's stock price jumped **11.73%**, closing at HK$8.86 [Source (AI News)](https://www.aibase.com/zh/news/24520). Bank of America Securities is bullish on the monetization prospects of its digital productivity tools. Alibaba's $250 million convertible bond deal has also been completed, setting the stage for deep collaboration in e-commerce and cloud computing. 📈✨
+1.  **DeepSeek's parent company** raked in a whopping 5 billion 💰, enough to fund 2380 [R1 models (AI News)](https://www.qbitai.com/2026/01/369302.html). Quant Phantasy has become their strongest financial backer. They're committed to no financing and no commercialization 🙄, providing top-tier resources for their research team. This external funding keeps their AGI path pure.
 
-2.  **China's first AI pornography case has been sentenced:** The developer of AlienChat was handed a four-year prison sentence for profiting from the production of obscene materials [Details (AI News)](https://www.aibase.com/zh/news/24501). The platform had **116,000 registered users** and illegally profited 3.63 million RMB. The court ruled that it broke moral constraints by inducing explicit content output. The second trial is scheduled for January 14. ⚖️🚫
+2.  **The focus of large model bids** has largely shifted, with application-based projects now accounting for nearly [sixty percent (AI News)](https://www.jiqizhixin.com/articles/2026-01-13-3). Zhongguancun Kejin has broken through with its vertical models 🚀, making financial and government scenarios fiercely contested 🔥. The market is moving from technological positioning to value validation, fostering coexistence between generalist giants and niche vendors.
 
-3.  **xAI has reportedly had its Claude access cut off by Anthropic!** An internal memo from Tony Wu revealed that engineers can no longer use Claude [Source (AI News)](https://www.aibase.com/zh/news/24475). xAI had been accessing it via the Cursor tool, which was then blocked. OpenAI, sensing an opportunity, has partnered with OpenCode to promote Codex. xAI, meanwhile, says it will accelerate the development of its in-house programming model. ✂️😬
+3.  **IgniteTech's layoffs** were a result of employees failing to keep up with the pace of [AI transformation (AI News)](https://www.aibase.com/zh/news/24532). The CEO's mandatory "AI Monday" policy 👀 led to a soaring profit margin of 75%. This is a survival-level transformation 💀 where mindset trumps skills.
 
-4.  **Elon Musk has announced that the X platform will open-source its algorithm!** He stated that the [latest recommendation algorithm (AI News)](https://www.aibase.com/zh/news/24473) would be made public within seven days. This comes after previous GitHub code was criticized for being **severely outdated** and not updated for three years. X plans to establish a regular update mechanism, refreshing the code every four weeks, a move seen as crucial to addressing European regulatory pressure. 🐦🛠️
+4.  **Yuewen and Shengshu are teaming up to create the Vidu ecosystem**, leveraging the Vidu large model to empower [IP visualization (AI News)](https://www.aibase.com/zh/news/24531). This tackles the talent shortage pain point 😅 in the film and television industry, accelerating the transformation of web novels into animation 🚀. They've also established an AI film and television education system, building a complete industry-academia-research closed loop.
 
-5.  **DeepSeek V4 is rumored to launch before the Lunar New Year!** This new flagship model is said to specialize in AI programming capabilities [Reportedly (AI News)](https://www.aibase.com/zh/news/24467). Internal tests suggest its code generation might even **surpass Claude** – that's huge! It could also integrate the R2 inference model to boost logical processing and might involve new advancements in domestic chips. 🚀💻
+5.  **Apple's decision to select Gemini to power Siri** is a pragmatic [short-term business decision (AI News)](https://newshacker.me/story?id=46589675), yet it raises privacy and antitrust concerns 🤔. Users just want Siri to stop being an idiot 🙄. Apple bought itself time ⏳ through this partnership, though private cloud computing sparks trust debates.
 
-6.  **ByteDance and Alibaba are reportedly splurging 75 billion RMB to snatch up Nvidia H200 GPUs!** According to foreign media, both companies have ordered **200,000 units each** [Details (AI News)](https://m.okjike.com/originalPosts/6964b687cc7b5bfc0434eb85), with each company's procurement totaling 37.5 billion RMB. Nvidia is reportedly demanding 100% upfront payment with no refunds – talk about harsh terms! Industry insiders are calling this "buying the right to waste computing power." 💸🔥<br/>![AI News: Nvidia H200 GPU Procurement Analysis Chart](https://source.hubtoday.app/images/2026/01/news_01kesb3hkbetbb7n9xh1dcqhgr.avif)<br/>
+6.  **The OpenCode framework** has a serious vulnerability: lack of authentication could lead to [remote code execution (AI News)](https://newshacker.me/story?id=46581095). The community criticized maintainers for their slow response 🤦‍♀️. It's recommended to run it in a container 🛡️. This raises debates about local service security boundaries, as project growth has outpaced governance.
 
-7.  **Jiuzhang Intelligent Computing Cloud is tackling the intelligent driving computing power dilemma!** Technical Director Hu Zongxing shared their [end-to-end intelligent driving solution (AI News)](https://www.jiqizhixin.com/articles/2026-01-12-8) at a conference. He proposed overcoming the three "big mountains": the computing wall, storage wall, and communication wall. By implementing a fault self-healing mechanism, they ensure **95% effective training time**, pushing domestic AI infrastructure from following to leading the pack. 🚀🧠
+### Top Open Source Projects
 
-### Open Source TOP Projects
+1.  **Vercel has released Agent Browser**, specifically designed for AI agents with [browser automation (AI News)](https://www.xiaohu.ai/c/a066c4/vercel-agent-browser-ai) capabilities. It supports headless mode, offering extremely fast operation 🚀, effectively giving AI agents hands to control web pages ✋. Built on Rust, its performance is blazing fast.
+    <br/><br/>
+    ![AI News: Agent Browser Command Line Operation Demo Interface](https://source.hubtoday.app/images/2026/01/news_01kevybj5vew1am6knpxvxeg74.avif)
+    <br/><br/>
 
-1.  **Dioxus is a full-stack application framework that supports cross-platform development for web, desktop, and mobile!** Check out the [Project address (AI News)](https://github.com/DioxusLabs/dioxus) with ⭐33.4k stars. Written in Rust, it offers robust performance and a smooth user experience, making it perfect for teams needing a unified codebase. 💻📱
+2.  **An iCloud photo batch downloader** now supports command-line bulk [photo pulling (AI News)](https://github.com/icloud-photos-downloader/icloud_photos_downloader). It's an essential tool for backing up life's memories 📸, having earned a high star rating of 10.8k ⭐ on GitHub. It's simple to operate and powerful.
 
-2.  **MediaCrawler is a multi-platform web scraper that supports comprehensive crawling across platforms like Xiaohongshu, Douyin, and Bilibili!** Find the [Project address (AI News)](https://github.com/NanmiCoder/MediaCrawler) with ⭐42k stars. It boasts full functionality, capable of grabbing notes, comments, and videos, and also supports Weibo, Tieba, and Zhihu. 🕸️📹
+3.  **A real-time object detection NVR system** identifies [IP camera (AI News)](https://github.com/blakeblackshear/frigate) footage using local AI. This hardcore project for home security 🏠 boasts an astonishing 28.8k ⭐ stars, significantly reducing false alarms and nuisance alerts.
 
-3.  **ChatDev is an LLM-driven, multi-agent collaborative development framework!** Check out the [Project address (AI News)](https://github.com/OpenBMB/ChatDev) with ⭐28.3k stars. It simulates a software company with multiple roles collaborating – pretty cool! Version 2.0 brings significant capability enhancements. 🤖🤝
+4.  **The X platform's recommendation algorithm source code** reveals Twitter stream [distribution logic (AI News)](https://github.com/twitter/the-algorithm). It's a must-see project for anyone wanting to understand social media 🐦, with a super impressive 69.4k ⭐ stars, making it an excellent textbook for studying recommendation systems.
 
-4.  **OpenProject is a leading open-source project management software!** Its [Project address (AI News)](https://github.com/opf/openproject) has ⭐13.8k stars. It's feature-rich, suitable for enterprise use, and offers the flexibility of being open-source, free, and self-hostable. 📊✅
+5.  **A tutorial on building a minimalist GPU with Verilog** from scratch teaches [how it works (AI News)](https://github.com/adam-maj/tiny-gpu). It's a treasure for hardcore developers 💻 looking for hands-on practice, earning 9.6k ⭐ developer likes for its deep dive into low-level hardware design.
 
 ### Social Media Shares
 
-1.  **Linus Torvalds, the father of Linux, is now actually using AI programming!** He reportedly leveraged [Google Antigravity (AI News)](https://www.aibase.com/zh/news/24513) for a personal audio project, skipping manual Python coding. This is a big deal, considering he once famously slammed AI code as garbage – well, look who's "loving it" now! This truly marks AI programming as an irreversible trend. 🤯
+1.  **Claude Code surprisingly writes its own code**, demonstrating its [self-creation (AI News)](https://x.com/op7418/status/2010909193101066446) capabilities through the Cowork feature. The era of AI commanding AI has arrived! 🤯 Guizang, an expert, demonstrated how to organize documents, with all code generated by Claude.
+    <br/><br/>
+    ![AI News: Claude Code Automatic Code Generation Demo Screenshot](https://source.hubtoday.app/images/2026/01/news_01kevybr5zfz893mhv3fdardh5.avif)
+    <br/><br/>
 
-2.  **Notion AI now allows for one-sentence meal ordering!** A blogger shared how they used Notion + Claude to create meal plans [Tweet (AI News)](https://x.com/frxiaobei/status/2010695353214083151). You can directly order ingredients – talk about hassle-free! The idea of leveraging personal context as an asset is quite innovative. And combining Obsidian + Claude? The possibilities are endless! 🍽️✨<br/>![AI News: Notion AI Meal Plan Automation Flow](https://source.hubtoday.app/images/2026/01/news_01kesb3pzhf38tbmapf6p1gyxk.avif)<br/>
+2.  **"Silema" (literally "Dead Yet?"), the viral sensation**, isn't a Vibe Coding project but a legitimate [startup project (AI News)](https://x.com/oran_ge/status/2010860214481027465). It's currently raising $500k 💰, a hit accidentally created by a three-person team 🔥.
+    <br/><br/>
+    ![AI News: Silema App Interface and Funding Information](https://source.hubtoday.app/images/2026/01/news_01kevybwr7ed6b2ryawdxnb58f.avif)
+    <br/><br/>
 
-3.  **Here's a cool one-sentence e-book download trick!** A blogger created an interesting skill [Details (AI News)](https://x.com/vista8/status/2010393720911438151) where a Telegram bot linked to Zlib automatically downloads books. The next step is to connect it to NotebookLM for automatic interpretation, and a Claude command-line client to get sessions. How clever! 📚🤖<br/>![AI News: Telegram Bot E-book Download Demo](https://source.hubtoday.app/images/2026/01/news_01kesb43pnejcs33nrzp6tk58v.avif)<br/>
-
-4.  **Ant Aifu has reportedly enlisted Zhang Xiaolong as their spokesperson!** This is some next-level business strategy using simple wisdom [Tweet (AI News)](https://x.com/gefei55/status/2010601270843981987). They're actually running ads *inside WeChat* – brilliant! Directly advertising on a competitor's turf? That's bold. 🤯🎯<br/>![AI News: Ant Aifu WeChat Ad Placement Screenshot](https://source.hubtoday.app/images/2026/01/news_01kesb4cc2etm94kh89rsqp6pw.avif)<br/>
-
-5.  **Simple interfaces can still be resource hogs!** A blogger complained that a simple interface doesn't mean [low resource consumption (AI News)](https://x.com/wwwgoubuli/status/2010394088152207438). The screenshot reveals shocking memory usage. Don't let appearances deceive you! 😬💾<br/>![AI News: Simple App High Resource Usage Screenshot](https://source.hubtoday.app/images/2026/01/news_01kesb4gajeeqsst5g807cdhdr.avif)<br/>
+3.  **AI's bottleneck is no longer technology itself**, but humanity's ability to [trust its decisions (AI News)](https://www.reddit.com/r/artificial/comments/1qb2u2s/the_bottleneck_isnt_ai_capability_anymore_its/). The singularity won't happen because it can't be verified 🤔. Someone even wrote a JSON seed for this.
 
 ---
 
-## AI News Daily Voice Edition
+## **AI News Daily Voice Version**
 
 | 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
 | --- | --- |
-| [Laisheng Xiaojiuguan](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Xiaojiuguan](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Afterlife Pub](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
+| ![Pub](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
